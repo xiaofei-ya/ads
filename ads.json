@@ -1,3 +1,6 @@
  {
-  "feedback": "https://raw.githubusercontent.com/Fndroid/ads/master/ads2.png"
+   "feedback": {
+     "img": "https://raw.githubusercontent.com/Fndroid/ads/master/ads2.png",
+     "click": "https://www.googole.com"
+   }
  }
