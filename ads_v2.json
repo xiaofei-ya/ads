@@ -1,9 +1,12 @@
 {
-  "feedback": [{
-    "img": "https://github.com/Fndroid/ads/blob/master/ads9.jpg?raw=true",
-    "click": "",
-  },{
-    "img": "https://github.com/Fndroid/ads/blob/master/ads10.jpg?raw=true",
-    "click": "",
-  }]
+  "feedback": [
+    {
+      "img": "https://github.com/Fndroid/ads/blob/master/ads9.jpg?raw=true",
+      "click": ""
+    },
+    {
+      "img": "https://github.com/Fndroid/ads/blob/master/ads10.jpg?raw=true",
+      "click": ""
+    }
+  ]
 }
