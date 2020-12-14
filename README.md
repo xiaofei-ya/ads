@@ -10,6 +10,6 @@
 大小建议：690 * 150
 
 #### 示例图片
-![](https://github.com/Fndroid/ads/blob/master/ads10.jpg?raw=true)
+![](https://github.com/xiaofei-ya/ads/blob/master/ads10.jpg?raw=true)
 
 > 支持点击跳转
